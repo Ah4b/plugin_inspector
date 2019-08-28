@@ -1,0 +1,16 @@
+[general]
+name=QGIS Plugin Inspector
+author=Peter Gipper
+email=peter.gipper@wheregroup.com
+description=Get info about registered python plugins
+about=
+homepage=
+tags=
+
+version=1.0.0
+qgisMinimumVersion=2.99
+qgisMaximumVersion=3.99
+
+icon=inspector.png
+experimental=True
+deprecated=False
